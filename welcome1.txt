@@ -1,3 +1,4 @@
 hi welcome to devops class
 Git is lightweight
 git is cool
+git is easy to learn
